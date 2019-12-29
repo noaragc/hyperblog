@@ -6,4 +6,6 @@ Hoy hablaremos de su historia.
 
 Este archivo se editó en Mac OS.
 
+Se agrega esta línea desde la laptop de la Empresa.
+
 Se reemplaza el archivo original.
